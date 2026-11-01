@@ -61,7 +61,7 @@ space to avoid underflow, Baum-Welch with a log-likelihood convergence criterion
 | Path | Contents |
 | --- | --- |
 | `HMM_Activity_Recognition.ipynb` | Full pipeline, outputs saved |
-| [`report.pdf`](Hasbiyallah-Umutoniwabo_Formative 2 - Hidden Markov Models.pdf) | Report (also viewable as a [live doc](https://docs.google.com/document/d/1licEyLua2InBSeedurkp7Lt-qcenWlr_TMbDQzMuk1I/edit?usp=sharing)) |
+| `Hasbiyallah-Umutoniwabo_Formative 2 - Hidden Markov Models.pdf` | Report (also viewable as a [live doc](https://docs.google.com/document/d/1licEyLua2InBSeedurkp7Lt-qcenWlr_TMbDQzMuk1I/edit?usp=sharing)) |
 | `videos.md` | Data collection video links |
 | `data/train/` | 82 labelled CSVs |
 | `data/test/` | 12 labelled CSVs |
